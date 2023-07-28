@@ -1,4 +1,5 @@
-![Banner](https://github.com/GRAviTY-GAGAN/GRAviTY-GAGAN/assets/68629598/a518d908-7a6b-41ef-9380-6e1b5374bc58)
+
+![Banner](https://github.com/GRAviTY-GAGAN/GRAviTY-GAGAN/assets/68629598/39224878-224f-47f5-acce-6cd519f00efa)
 
 
 

@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gagan BN
 ================================================================================================================================
 
-Web Developer
+Full Stack Web Developer
 -------------
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/e9f9ea5544e27c43d88ba9945eb9403a.jpg?resize=1000x750&vertical=center">
 

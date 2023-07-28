@@ -3,8 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/e9f9ea5544e27c43d88ba9945eb9403a.jpg?resize=1000x750&vertical=center">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GRAviTY-GAGAN&label=Profile%20views&color=0e75b6&style=flat" alt="GRAviTY-GAGAN" /> </p>
 
 * 🌍  I'm based in India
+* 📫 I am currently learning MERN stack development.
+* 💬 Ask me about **JavaScript | HTML5 | CSS | ReactJS| MongoDB | ExpressJS | NodeJS | TypeScript | Redux**
 * 🖥️  See my portfolio at [Gagan BN](https://gravity-gagan.github.io/)
 * ✉️  You can contact me at [gaganbn1999@gmail.com](mailto:gaganbn1999@gmail.com)
 
@@ -39,10 +44,6 @@ Web Developer
 
 <a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAviTY-GAGAN&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GRAviTY-GAGAN&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/GRAviTY-GAGAN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAviTY-GAGAN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<h4 align="center"> Thanks for visiting! :blush: </h4>

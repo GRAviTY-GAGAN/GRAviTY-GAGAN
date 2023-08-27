@@ -56,6 +56,6 @@ Full Stack Web Developer
 | 1 |  [Sandstrom](https://sandstorm-gsvr.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team Lead| 5 |[Nordstrom](https://www.nordstrom.com/)|
 | 2 |  [Task Boards]( https://task-board-web-app.netlify.app/)| TypeScript, ReactTS, ChakraUI, Redux, Redux-Thunk, MongoDB, ExpressJS, JWT and NodeJS | `No` | Individual|   4 |-| 
 | 3 |  [HR Dashboard](https://hr-dashboard-app.netlify.app/)| JavaScript, ReactJS, ChakraUI, Redux, MongoDB, ExpressJS, JWT and NodeJS| `No` | Individual|   30 |-| 
-| 4 |  [Flash Deal](https://grand-dasik-526567.netlify.app/)| JavaScript, ReactJS and ChakraUI| `No` | Individual|   5 |-| 
+| 4 |  [Flash Deal](https://grand-dasik-526567.netlify.app/)| JavaScript, ReactJS and ChakraUI| `No` | Individual|   5 |[Snapdeal](https://www.snapdeal.com/)|  
 
 <h4 align="center"> Thanks for visiting! :blush: </h4>

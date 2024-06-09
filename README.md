@@ -16,7 +16,7 @@ Full Stack Web Developer
 
 * 📫 I am currently learning MERN stack development.
 * 💬 Ask me about **JavaScript | HTML5 | CSS | ReactJS| MongoDB | ExpressJS | NodeJS | TypeScript | Redux**
-* 🖥️  See my portfolio at [Gagan BN]([https://gravity-gagan.github.io/](https://gravity-gagan.netlify.app/)
+* 🖥️  See my portfolio at [Gagan BN](https://gravity-gagan.netlify.app/)
 * ✉️  You can contact me at [gaganbn1999@gmail.com](mailto:gaganbn1999@gmail.com)
 
 ### Skills

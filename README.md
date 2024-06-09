@@ -13,6 +13,7 @@ Full Stack Web Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GRAviTY-GAGAN&label=Profile%20views&color=0e75b6&style=flat" alt="GRAviTY-GAGAN" /> </p>
 
 * 🌍  I'm based in India
+
 * 📫 I am currently learning MERN stack development.
 * 💬 Ask me about **JavaScript | HTML5 | CSS | ReactJS| MongoDB | ExpressJS | NodeJS | TypeScript | Redux**
 * 🖥️  See my portfolio at [Gagan BN](https://gravity-gagan.github.io/)

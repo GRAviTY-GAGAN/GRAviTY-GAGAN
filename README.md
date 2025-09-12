@@ -60,11 +60,11 @@ These are the technologies I've worked with.
 
 <a href="http://www.github.com/GRAviTY-GAGAN"><img align='left' src="https://github-readme-stats.vercel.app/api?username=GRAviTY-GAGAN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&show_icons=true" alt="GRAviTY-GAGAN's GitHub stats" /></a>
 
-<a href="http://www.github.com/GRAviTY-GAGAN"><img style="padding-top: 50px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GRAviTY-GAGAN&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/GRAviTY-GAGAN"><img style="padding-top: 50px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GRAviTY-GAGAN&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <br />
 
-<a href="https://github.com/GRAviTY-GAGAN" align='right' ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAviTY-GAGAN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GRAviTY-GAGAN" align='right' ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAviTY-GAGAN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 | S.No. |                        Project                         |                                      Tech-Stack                                       | Collaborative |    Role    | Span (Days) |                Clone of                 |
 | :---: | :----------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: | :-------------------------------------: |

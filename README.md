@@ -40,11 +40,25 @@ These are the technologies I've worked with.
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://www.github.com/GRAviTY-GAGAN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> | <a href="https://gagan-bn.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> | <a href="https://www.linkedin.com/in/gagan-bn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> |
 
-### Badges
+## 📊 LeetCode Progress
+<div style="max-width: 100%; min-height: 500px;">
+  <img align="right" src="https://camo.githubusercontent.com/17f60be82ec67ba4ced3e7d959300c9536d97df87d9041a8504cb3666c7c48dc/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f676167616e626e313939393f7468656d653d6461726b26666f6e743d506f7070696e73266578743d686561746d6170" alt="LeetCode Stats" data-canonical-src="https://leetcard.jacoblin.cool/gaganbn1999?theme=dark&amp;font=Poppins&amp;ext=heatmap" style="max-width: 100%; min-height=500px;">
+  <span align="left" style="flex: 1;">
+
+- 🔥 50+ days solved in 2025  
+ <img width="300" alt="LeetCode Badge" src="https://github.com/user-attachments/assets/ee9ad9d2-8dda-4036-b582-90ab77c4c817" />
+
+- 🚀 Working towards 100 Days Badge  
+
+  </span>
+
+ </div>
+
+## Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-stats.vercel.app/api?username=GRAviTY-GAGAN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GRAviTY-GAGAN's GitHub stats" /></a>
+<a href="http://www.github.com/GRAviTY-GAGAN"><img align='left' src="https://github-readme-stats.vercel.app/api?username=GRAviTY-GAGAN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GRAviTY-GAGAN's GitHub stats" /></a>
 
 <a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAviTY-GAGAN&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

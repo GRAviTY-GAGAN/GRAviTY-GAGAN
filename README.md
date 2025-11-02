@@ -48,7 +48,8 @@ These are the technologies I've worked with.
 - 🔥 50+ days solved in 2025  
  <img width="300" alt="LeetCode Badge" src="https://github.com/user-attachments/assets/ee9ad9d2-8dda-4036-b582-90ab77c4c817" />
 
-- 🚀 Working towards 100 Days Badge  
+- 🔥 100+ days solved in 2025  
+<img width="300" alt="100 Days LeetCode" src="https://github.com/user-attachments/assets/3bceaaf1-11a8-41b4-b568-9964f6058a53" />
 
   </span>
 
